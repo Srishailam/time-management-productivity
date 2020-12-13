@@ -1,0 +1,14 @@
+.StatusLine{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+.button.addTask{
+  border-radius: 50%;
+}
